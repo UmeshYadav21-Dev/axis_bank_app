@@ -5,4 +5,5 @@ public class User{
 	private Long userMobileNumber; 
 	private String userFirstName;
 	private String userIDCarad;
+	private String userDept;
 }
